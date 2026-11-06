@@ -151,12 +151,13 @@ Week 09
 3. 點擊 **[ + ]** 暫存 → 輸入訊息 `docs: 期中資料前處理報告` → **Commit** → **Sync Changes**。
 4. 到 GitHub 網頁確認 `DATA_REPORT.md` 的截圖正常顯示。
 
+
 ---
 
 # 繳交前檢查清單 (Final Checklist)
 
 **11/6 11:50 前 Push** (以 11:50 的版本評分)
-- [] `DATA_REPORT.md` 第 1–5 節完成，第 3.4 節含**驗證碼**
+- [x] `DATA_REPORT.md` 第 1–5 節完成，第 3.4 節含**驗證碼**
 - [x] 截圖在 `reports/figures/`，GitHub 上可正常顯示
 - [x] `AI_USAGE.md` 已新增 Week 09 段落
 - [x] `notebooks/09_midterm_chunks.ipynb` 已存檔，**保留輸出結果**
